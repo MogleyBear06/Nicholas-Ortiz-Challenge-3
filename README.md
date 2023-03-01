@@ -3,7 +3,7 @@
 ## App Description
 This app allows users to create a novel password between 8 and 128 characters inclusive of lowercase and uppercase letters, numeric figures as well as special characters by selecting a desired set of criteria.
 
-### Addtiional considerations 
+### Additional Considerations 
 Password diplays in an alert message and not directly on the page
 so be mindful of that when using this application.
 
