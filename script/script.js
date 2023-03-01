@@ -47,5 +47,8 @@ for (let i = 0; i < passwordLength; i++) {
 password += passwordChars.charAt(Math.floor(Math.random() * passwordChars.length));
 
 }
+
+// this will show the password in an alert
+alert("Your generated password is: " + password);
 })
 
