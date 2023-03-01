@@ -26,5 +26,26 @@ includeUppercase = confirm("Would you like uppercase characters?");
 includeNumeric = confirm("Would you like numeric characters?");
 includeSpecial = confirm("Would you like special characters?");
 }
+
+//  Based on selected criteria, this generates the password
+let passwordChars = "";
+if (includeLowercase) {
+passwordChars += lowercaseChars;
+}
+if (includeUppercase) {
+passwordChars += uppercaseChars;
+}
+if (includeNumeric) {
+passwordChars += numericChars;
+}
+if (includeSpecial) {
+passwordChars += specialChars;
+}
+
+let password = "";
+for (let i = 0; i < passwordLength; i++) {
+password += passwordChars.charAt(Math.floor(Math.random() * passwordChars.length));
+
+}
 })
 
