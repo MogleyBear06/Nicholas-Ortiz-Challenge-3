@@ -9,5 +9,5 @@ so be mindful of that when using this application.
 
 Link to applicaiton: https://mogleybear06.github.io/Password-Generator-by-Nicholas-Ortiz/
 
-https://user-images.githubusercontent.com/44917761/222240019-26c48f75-ecb7-4afd-9afb-965c0e4038e7.png
+<img width="862" alt="Screen Shot 2023-03-01 at 1 07 48 PM" src="https://user-images.githubusercontent.com/44917761/222240019-26c48f75-ecb7-4afd-9afb-965c0e4038e7.png">
 
